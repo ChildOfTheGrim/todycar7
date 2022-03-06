@@ -56,9 +56,10 @@
     display: block;
     margin: auto;
     width: 100vw;
+  }
+  .rainbow {
+  
+  font-size: 5em;
+  
+  }
 }
-.rainbow {
-  
-  font-size: 6em;
-  
-}}
