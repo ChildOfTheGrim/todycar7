@@ -18,7 +18,7 @@
 #tody{
     display: block;
     margin: auto;
-    width: 100vh;
+    height: 100vh;
 }
 .centered {
     position: absolute;
@@ -50,4 +50,11 @@
     50% {
         background-position: 100% 0;
     }
+}
+@media only screen and (max-width: 800px) {
+  #tody{
+    display: block;
+    margin: auto;
+    width: 100vw;
+}
 }
