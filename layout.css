@@ -55,7 +55,8 @@
   #tody{
     display: block;
     margin: auto;
-    width: 100vw;
+    max-width: 100vw;
+    
   }
   .rainbow {
   
